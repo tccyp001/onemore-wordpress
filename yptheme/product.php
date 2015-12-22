@@ -89,17 +89,18 @@
                         </ul>
                     </div>
           <div class="col-md-2">
-            <ul class="footer_box">
-              <h4>ENGLISH</h4>
-              <a>
-                <h4>中文</h4>
-              </a>
-            </ul>
+			<ul class="footer_box">
+			<h4>ENGLISH</h4>
+			&nbsp;
+			<a href='http://china.1more.com/'>
+			<h4>中文</h4>
+			</a>
+			</ul>
           </div>
                     <div class="col-md-offset-1 col-md-3">
                         <ul class="footer_box">
                             <li><img class="logo-footer" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png"/></li>
-              <li><a href="#">email address</a></li>
+              <li><a href="#">email address : info@1moreusa.com</a></li>
               <hr>
              <li><a href="#">Copyright Terms & Conditions | Privacy Policy</a></li>
                         </ul>
