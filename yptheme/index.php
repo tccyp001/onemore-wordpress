@@ -201,7 +201,7 @@
 
 <ul class="footer_box">
 	<li><img class="logo-footer" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" /></li>
-	<li><a href="#">email address: info@1moreusa.com</a></li>
+	<li><a href="#">email address : info@1moreusa.com</a></li>
 <hr />
 
 	<li><a href="#">Copyright Terms &amp; Conditions | Privacy Policy</a></li>
