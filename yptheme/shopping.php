@@ -32,10 +32,10 @@
 						<a href="index.html"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75"/></a>
 					 </div>
           <ul class="header-menu">
-                 <li><a href="./index.html">HOME</a></li>
-                  <li><a href="./index.html">PRODUCT</a></li>
-                  <li><a href="./comingSoon.html">PRESS</a></li>
-                  <li><a href="./FAQ.html">SUPPORT</a></li>
+                 <li><a href="../Main">HOME</a></li>
+                  <li><a href="../Main">PRODUCT</a></li>
+                  <li><a href="../comingSoon">PRESS</a></li>
+                  <li><a href="../Faq">SUPPORT</a></li>
                 <div class="clear"></div>
           </ul>
 	    		  <div class="clear"></div>
@@ -70,19 +70,19 @@
                 <div class="col-md-2">
                         <ul class="footer_box">
                             <h4>PRODUCT</h4>
-                            <li><a href="./index.html">HOME</a></li>
-                            <li><a href="./index.html">TECH SPECS</a></li>
-                            <li><a href="./FAQ.html">FAQ</a></li>
+                            <li><a href="../Main">HOME</a></li>
+                            <li><a href="../Main">TECH SPECS</a></li>
+                            <li><a href="../Faq">FAQ</a></li>
                         </ul>
                     </div>
                     <div class="col-md-2">
                         <ul class="footer_box">
                             <h4>COMPANY</h4>
-                            <li><a href="./comingSoon.html">BLOG</a></li>
-                            <li><a href="./comingSoon.html">PRESS</a></li>
-                            <li><a href="./aboutUs.html">ABOUT US</a></li>
-                            <li><a href="./comingSoon.html">CAREER</a></li>
-							<li><a href="./comingSoon.html">CONTACT</a></li>
+                            <li><a href="../comingSoon">BLOG</a></li>
+                            <li><a href="../comingSoon">PRESS</a></li>
+                            <li><a href="../aboutUs">ABOUT US</a></li>
+                            <li><a href="../comingSoon">CAREER</a></li>
+							<li><a href="../comingSoon">CONTACT</a></li>
                         </ul>
                     </div>
                    <div class="col-md-2">

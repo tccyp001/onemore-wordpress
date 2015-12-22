@@ -136,7 +136,7 @@
                  <li><a href="../Main">HOME</a></li>
                   <li><a href="../Main">PRODUCT</a></li>
                   <li><a href="../Comingsoon">PRESS</a></li>
-                  <li><a href="./Faq">SUPPORT</a></li>
+                  <li><a href="../Faq">SUPPORT</a></li>
                 <div class="clear"></div>
           </ul>
 	    		  <div class="clear"></div>
@@ -164,19 +164,19 @@
 
 <ul class="footer_box">
 <h4>PRODUCT</h4>
-	<li><a href="./Main">HOME</a></li>
-	<li><a href="./Main">TECH SPECS</a></li>
-	<li><a href="./FAQ">FAQ</a></li>
+	<li><a href="../Main">HOME</a></li>
+	<li><a href="../Main">TECH SPECS</a></li>
+	<li><a href="../FAQ">FAQ</a></li>
 </ul>
 </div>
 <div class="col-md-2">
 <ul class="footer_box">
 <h4>COMPANY</h4>
-	<li><a href="./comingsoon">BLOG</a></li>
-	<li><a href="./comingsoon">PRESS</a></li>
-	<li><a href="./aboutUs">ABOUT US</a></li>
-	<li><a href="./comingsoon">CAREER</a></li>
-	<li><a href="./comingsoon">CONTACT</a></li>
+	<li><a href="../comingsoon">BLOG</a></li>
+	<li><a href="../comingsoon">PRESS</a></li>
+	<li><a href="../aboutUs">ABOUT US</a></li>
+	<li><a href="../comingsoon">CAREER</a></li>
+	<li><a href="../comingsoon">CONTACT</a></li>
 </ul>
 </div>
 <div class="col-md-2">
@@ -198,7 +198,7 @@
 <div class="col-md-offset-1 col-md-3">
 
 <ul class="footer_box">
-	<li><img class="logo-footer" src="../wp-content/themes/yptheme/images/LOGO.png" alt="" /></li>
+	<li><img class="logo-footer" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" /></li>
 	<li><a href="#">email address</a></li>
 <hr />
 

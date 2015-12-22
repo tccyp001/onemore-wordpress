@@ -39,7 +39,7 @@
 					 </div>
           <ul class="header-menu">
                  <li><a href="../Main">HOME</a></li>
-                  <li><a href="./Main">PRODUCT</a></li>
+                  <li><a href="../Main">PRODUCT</a></li>
                   <li><a href="../ComingSoon">PRESS</a></li>
                   <li><a href="../FAQ">SUPPORT</a></li>
                 <div class="clear"></div>
