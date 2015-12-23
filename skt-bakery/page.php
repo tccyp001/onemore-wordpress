@@ -21,7 +21,7 @@ get_header(); ?>
 			  <div class="col-md-12">
 				 <div class="header-left">
 					 <div class="shoppingcart-logo">
-						<a href="index.html"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75"/></a>
+						<a href="../Main"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75"/></a>
 					 </div>
           <ul class="header-menu">
                  <li><a href="../Main">HOME</a></li>
