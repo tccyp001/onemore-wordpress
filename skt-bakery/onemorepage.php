@@ -32,7 +32,7 @@
 			  <div class="col-md-12">
 				  <div class="header-left">
 					   <div class="logo">
-						    <a href="index.html"><img class="logo-image" src="../wp-content/themes/yptheme/images/LOGO.png" alt="" height="35" width="75"/></a>
+						    <a href="index.html"><img class="logo-image" src="/wp-content/themes/yptheme/images/LOGO.png" alt="" height="35" width="75"/></a>
 					   </div>
              <ul class="header-menu">
                   <li><a href="./index.html">HOME</a></li>
