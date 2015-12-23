@@ -2004,6 +2004,6 @@ a button.home-listen-button:hover{
 	float:left;
 	margin-right:2%;
 }
-.return-to-shop .wc-backward{
+.woocommerce .return-to-shop a.wc-backward{
 	display:none;
 }
