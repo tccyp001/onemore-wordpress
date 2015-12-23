@@ -1,6 +1,6 @@
 <?php
 /**
-	Template Name: PRODUCT Template
+	Template Name: Static Page Template
 
 */
 ?>
@@ -23,34 +23,34 @@
 <!--<script src="js/jquery.easydropdown.js"></script>-->
 <!--start slider -->
 
-<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/jquery-ui.min.js"></script>
-
-
 </head>
 
 <body>
 <?php while (have_posts()) : the_post(); ?>
-<div class="header">
-		<div class="row">
+<div class="header" style="position:relative; background:#000;">
+		<div class="row" style="background:#000;">
 			  <div class="col-md-12">
-				 <div class="header-left">
-					 <div class="logo">
-						<a href="/index.php/main"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75"/></a>
-					 </div>
-          <ul class="header-menu">
+				  <div class="header-left">
+					   <div class="logo">
+						    <a href="/index.php/main/"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75"/></a>
+					   </div>
+             <ul class="header-menu">
 				   <li><a href="/index.php/Main">HOME</a></li>
                   <li><a href="/index.php/Main">PRODUCT</a></li>
                   <li><a href="/index.php/Comingsoon">PRESS</a></li>
                   <li><a href="/index.php/Faq">SUPPORT</a></li>
                 <div class="clear"></div>
-          </ul>
-	    		  <div class="clear"></div>
-	    	    </div>
-	            <div class="header_right" style="margin:5px; width:12%;">
-				    <button class="buy-button" onclick="buyBtnClicked()">
-              <a href="#">BUY NOW</a>
-            </button>
-	         </div>
+             </ul>
+	    		   <div class="clear"></div>
+	    	  </div>
+	        <div class="header_right">
+          <div class="col-md-2">
+            <ul class="icon1 sub-icon1 profile_img">
+              <li><a class="active-icon c1" href="#"> </a></li>
+           </ul>
+               <div class="clear"></div>
+         </div>
+        </div>
 	      </div>
 	 </div>
 	</div>
@@ -61,7 +61,7 @@
 <div class="footer">
             <div class="container">
                 <div class="row">
-                <div class="col-md-2">
+					<div class="col-md-2">
 					<ul class="footer_box">
 					<h4>PRODUCT</h4>
 						<li><a href="/index.php/Main">HOME</a></li>
@@ -79,7 +79,7 @@
 						<li><a href="/index.php/comingsoon">CONTACT</a></li>
 					</ul>
                     </div>
-                   <div class="col-md-2">
+                    <div class="col-md-2">
                         <ul class="footer_box">
                             <h4>SOCIAL STUFF</h4>
                             <li><a href="https://www.facebook.com/1MoreUSA/">FACEBOOK</a></li>
@@ -89,7 +89,7 @@
                         </ul>
                     </div>
           <div class="col-md-2">
-			<ul class="footer_box">
+            <ul class="footer_box">
 			<h4>ENGLISH</h4>
 			&nbsp;
 			<a href='http://china.1more.com/'>
