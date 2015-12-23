@@ -20,7 +20,7 @@
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript" src="/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
 <script src = "/wp-content/plugins/woocommerce/assets/js/frontend/cart.js"> </script>
-<script src = "/wp-content/plugins/woocommerce/assets/js/frontend/checkout.js"> </script>
+<script src = "<?php echo esc_url( get_template_directory_uri() ); ?>/js/checkout.js"> </script>
 <script src = "/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js"> </script>
 <script type="text/javascript">
 /* <![CDATA[ */
