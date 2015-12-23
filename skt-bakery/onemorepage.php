@@ -32,13 +32,13 @@
 			  <div class="col-md-12">
 				  <div class="header-left">
 					   <div class="logo">
-						    <a href="index.html"><img class="logo-image" src="/wp-content/themes/yptheme/images/LOGO.png" alt="" height="35" width="75"/></a>
+						    <a href="/index.php/main/"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75"/></a>
 					   </div>
              <ul class="header-menu">
-                  <li><a href="./index.html">HOME</a></li>
-                  <li><a href="./index.html">PRODUCT</a></li>
-                  <li><a href="./comingSoon.html">PRESS</a></li>
-                  <li><a href="./FAQ.html">SUPPORT</a></li>
+				   <li><a href="/index.php/Main">HOME</a></li>
+                  <li><a href="/index.php/Main">PRODUCT</a></li>
+                  <li><a href="/index.php/Comingsoon">PRESS</a></li>
+                  <li><a href="/index.php/Faq">SUPPORT</a></li>
                 <div class="clear"></div>
              </ul>
 	    		   <div class="clear"></div>
@@ -62,22 +62,22 @@
             <div class="container">
                 <div class="row">
 					<div class="col-md-2">
-                        <ul class="footer_box">
-                            <h4>PRODUCT</h4>
-                            <li><a href="./index.html">HOME</a></li>
-                            <li><a href="./index.html">TECH SPECS</a></li>
-                            <li><a href="./FAQ.html">FAQ</a></li>
-                        </ul>
-                    </div>
-                       <div class="col-md-2">
-                        <ul class="footer_box">
-                            <h4>COMPANY</h4>
-                            <li><a href="./comingSoon.html">BLOG</a></li>
-                            <li><a href="./comingSoon.html">PRESS</a></li>
-                            <li><a href="./aboutUs.html">ABOUT US</a></li>
-                            <li><a href="./comingSoon.html">CAREER</a></li>
-							<li><a href="./comingSoon.html">CONTACT</a></li>
-                        </ul>
+					<ul class="footer_box">
+					<h4>PRODUCT</h4>
+						<li><a href="/index.php/Main">HOME</a></li>
+						<li><a href="/index.php/Main">TECH SPECS</a></li>
+						<li><a href="/index.php/FAQ">FAQ</a></li>
+					</ul>
+					</div>
+					<div class="col-md-2">
+					<ul class="footer_box">
+					<h4>COMPANY</h4>
+						<li><a href="/index.php/comingsoon">BLOG</a></li>
+						<li><a href="/index.php/comingsoon">PRESS</a></li>
+						<li><a href="/index.php/aboutUs">ABOUT US</a></li>
+						<li><a href="/index.php/comingsoon">CAREER</a></li>
+						<li><a href="/index.php/comingsoon">CONTACT</a></li>
+					</ul>
                     </div>
                     <div class="col-md-2">
                         <ul class="footer_box">
@@ -90,13 +90,17 @@
                     </div>
           <div class="col-md-2">
             <ul class="footer_box">
-              <h4>ENGLISH <span class="caret"></span></h4>
-            </ul>
+			<h4>ENGLISH</h4>
+			&nbsp;
+			<a href='http://china.1more.com/'>
+			<h4>中文</h4>
+			</a>
+			</ul>
           </div>
                     <div class="col-md-offset-1 col-md-3">
                         <ul class="footer_box">
-                            <li><img class="logo-footer" src="newImages\Logo\LOGO.png"/></li>
-              <li><a href="#">email address</a></li>
+                            <li><img class="logo-footer" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png"/></li>
+              <li><a href="#">email address : info@1moreusa.com</a></li>
               <hr>
              <li><a href="#">Copyright Terms & Conditions | Privacy Policy</a></li>
                         </ul>
