@@ -80,7 +80,7 @@ var wc_checkout_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
         <div class="clear"></div>
     </div><!-- site-aligner -->
 </div><!-- content -->
-<div class="footer">
+<div class="footer" style="display:none;">
             <div class="container">
                 <div class="row">
                 <div class="col-md-2">
