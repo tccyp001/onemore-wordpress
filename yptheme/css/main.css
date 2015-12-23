@@ -444,3 +444,6 @@ ol.comment-list li{ list-style:none; margin-bottom:5px;}
 .blog-post .woocommerce-info{
 	display:none;
 }
+.blockOverlay {
+	display:none;
+}
