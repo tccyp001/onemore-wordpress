@@ -211,13 +211,7 @@ jQuery( function( $ ) {
 				s_address_2		= address_2;
 			}
 
-			$( '.woocommerce-checkout-payment, .woocommerce-checkout-review-order-table' ).block({
-				message: null,
-				overlayCSS: {
-					background: '#fff',
-					opacity: 0.6
-				}
-			});
+	
 
 			var data = {
 				security:					wc_checkout_params.update_order_review_nonce,
@@ -308,13 +302,7 @@ jQuery( function( $ ) {
 				var form_data = $form.data();
 
 				if ( 1 !== form_data['blockUI.isBlocked'] ) {
-					$form.block({
-						message: null,
-						overlayCSS: {
-							background: '#fff',
-							opacity: 0.6
-						}
-					});
+					
 				}
 
 				$.ajax({
@@ -394,14 +382,7 @@ jQuery( function( $ ) {
 				return false;
 			}
 
-			$form.addClass( 'processing' ).block({
-				message: null,
-				overlayCSS: {
-					background: '#fff',
-					opacity: 0.6
-				}
-			});
-
+			
 			var data = {
 				security:		wc_checkout_params.apply_coupon_nonce,
 				coupon_code:	$form.find( 'input[name=coupon_code]' ).val()
@@ -433,14 +414,7 @@ jQuery( function( $ ) {
 			var container = $( this ).parents( '.woocommerce-checkout-review-order' ),
 				coupon    = $( this ).data( 'coupon' );
 
-			container.addClass( 'processing' ).block({
-				message: null,
-				overlayCSS: {
-					background: '#fff',
-					opacity: 0.6
-				}
-			});
-
+			
 			var data = {
 				security: wc_checkout_params.remove_coupon_nonce,
 				coupon:   coupon
