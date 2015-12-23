@@ -99,7 +99,7 @@ span.error_msg{ color:#f30;}
 .service-box .read {background:none repeat scroll 0 0 #fff; border-radius:5px; color:#000; font:300 14px/15px "PT Sans"; padding:7px 10px; text-align: center;}
 
 /* ============== Blog ============= */
-.content-left{ float:left; width:830px; padding:0; margin-top:20px;overflow:auto;max-height:100%}
+.content-left{ float:left; width:830px; padding:0; margin-top:60px;overflow:auto;max-height:100%;margin-left:50px}
 .content-right{ float:right; width:830px; margin:0; padding:0;}
 .sidebar_right {clear: right; float: right;}
 .sidebar_left {clear: left; float: left;}
