@@ -24,12 +24,12 @@
 <script src = "/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js"> </script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wc_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/index.php\/cart\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"0cdc9898ff"};
+var wc_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/index.php\/cart\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"c35b197553"};
 /* ]]> */
 </script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wc_checkout_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/index.php\/checkout\/?wc-ajax=%%endpoint%%","update_order_review_nonce":"9578a72be5","apply_coupon_nonce":"971f568a64","remove_coupon_nonce":"02da8c8e35","option_guest_checkout":"yes","checkout_url":"\/index.php\/checkout\/?wc-ajax=checkout","is_checkout":"1","debug_mode":"","i18n_checkout_error":"Error processing checkout. Please try again."};
+var wc_checkout_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/index.php\/checkout\/?wc-ajax=%%endpoint%%","update_order_review_nonce":"59877def16","apply_coupon_nonce":"70926a2235","remove_coupon_nonce":"73ae660a46","option_guest_checkout":"yes","checkout_url":"\/index.php\/checkout\/?wc-ajax=checkout","is_checkout":"1","debug_mode":"","i18n_checkout_error":"Error processing checkout. Please try again."};
 /* ]]> */
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
