@@ -447,3 +447,10 @@ ol.comment-list li{ list-style:none; margin-bottom:5px;}
 .blockOverlay {
 	display:none;
 }
+.checkout-same-address-input {
+  /* All browsers except webkit*/
+  transform: scale(1.5);
+
+  /* Webkit browsers*/
+  -webkit-transform: scale(1.5);
+}
