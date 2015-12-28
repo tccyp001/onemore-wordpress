@@ -14,7 +14,7 @@ get_header();
 			  <div class="col-md-12">
 				  <div class="header-left">
 					   <div class="logo">
-						    <a href="/index.php/main/"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75"/></a>
+						    <a href="/index.php/main/"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75" style="margin-top: 10px;"/></a>
 					   </div>
              <ul class="header-menu">
 				   <li><a href="/index.php/Main">HOME</a></li>
