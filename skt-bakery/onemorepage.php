@@ -39,6 +39,7 @@
                   <li><a href="/index.php/Main">PRODUCT</a></li>
                   <li><a href="/index.php/Comingsoon">PRESS</a></li>
                   <li><a href="/index.php/Faq">SUPPORT</a></li>
+				     <li><a href="../Cart">Cart</a></li>
                 <div class="clear"></div>
              </ul>
 	    		   <div class="clear"></div>

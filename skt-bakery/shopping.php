@@ -52,6 +52,7 @@ var wc_checkout_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
                   <li><a href="./index.html">PRODUCT</a></li>
                   <li><a href="./comingSoon.html">PRESS</a></li>
                   <li><a href="./FAQ.html">SUPPORT</a></li>
+				     <li><a href="../Cart">Cart</a></li>
                 <div class="clear"></div>
           </ul>
 	    		  <div class="clear"></div>
