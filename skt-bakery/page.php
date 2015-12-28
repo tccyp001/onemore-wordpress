@@ -28,7 +28,7 @@ get_header(); ?>
                   <li><a href="../Main">PRODUCT</a></li>
                   <li><a href="../comingSoon">PRESS</a></li>
                   <li><a href="../Faq">SUPPORT</a></li>
-				   <li><a href="../Cart">Cart</a></li>
+				   <li><a href="../Cart">CART</a></li>
                 <div class="clear"></div>
           </ul>
 	    		  <div class="clear"></div>
