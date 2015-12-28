@@ -181,7 +181,7 @@
 </div>
 <div class="col-md-2">
 <ul class="footer_box">
-<h4>SOCIAL STUFF</h4>
+<h4>SOCIAL</h4>
 	<li><a href="https://www.facebook.com/1MoreUSA/">FACEBOOK</a></li>
 	<li><a href="https://twitter.com/1MOREUSA">TWITTER</a></li>
 	<li><a href="https://plus.google.com/u/1/b/109723769822278278709/109723769822278278709/">GOOGLE+</a></li>
