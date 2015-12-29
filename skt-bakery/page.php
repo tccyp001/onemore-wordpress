@@ -24,11 +24,11 @@ get_header(); ?>
 						<a href="../Main"><img class="logo-image" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/LOGO.png" alt="" height="35" width="75"/></a>
 					 </div>
           <ul class="header-menu">
-                 <li><a href="../Main">HOME</a></li>
-                  <li><a href="../Main">PRODUCT</a></li>
-                  <li><a href="../comingSoon">PRESS</a></li>
-                  <li><a href="../Faq">SUPPORT</a></li>
-				   <li><a href="../Cart">CART</a></li>
+				   <li><a href="/index.php/Main">HOME</a></li>
+                  <li><a href="/index.php/Main">PRODUCT</a></li>
+                  <li><a href="/index.php/Comingsoon">PRESS</a></li>
+                  <li><a href="/index.php/Faq">SUPPORT</a></li>
+				     <li><a href="/index.php/Cart">CART</a></li>
                 <div class="clear"></div>
           </ul>
 	    		  <div class="clear"></div>
