@@ -1,0 +1,10 @@
+/*
+Theme Name: GoBlog Child
+Description: Child theme for the GoBlog WordPress theme
+Author: Simrandeep Singh
+Template: goblog
+*/
+
+@import url("../goblog/style.css");
+
+/* Start Adding Your CSS Here */

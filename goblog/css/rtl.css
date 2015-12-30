@@ -1,0 +1,63 @@
+body {
+	direction:rtl;
+}
+.main-navigation { float:left }
+.header-slider  .flex-control-nav {
+	direction:ltr;
+	left:10%;
+	right:auto;
+	text-align:left
+}
+.main-navigation .menu li.sfHover ul { left:0 }
+.main-navigation ul.menu li li.sfHover ul { left:-190px }
+.main-navigation ul.menu li li li:hover ul,
+.main-navigation ul.menu li li li.sfHover ul { left:-190px }
+.sf-arrows ul .sf-with-ul:after {
+	right:auto;
+	left:5px;
+	border-color:transparent;
+	border-right-color:#fff;
+}
+.menu i {
+	margin-left: 5px;
+	margin-right: 0
+}
+.btn {
+	float:left;
+	margin:10px 15px 10px 0 !important
+}
+.tagcloud a,
+#commentform #submit,
+.post header time,
+.read-more a { float:right }
+.reply,
+.s { float:left }
+.post-title { padding:0 0 0 13% }
+.post-avtar {
+	left:14px;
+	right:auto;
+}
+.title-wrap {
+	border-left:0;
+	border-right:1px solid rgba(0, 0, 0, 0.1);
+	padding:20px 2% 28px 0 !important
+}
+.clayout .post .title-wrap, .gslayout .post .title-wrap, .sglayout .post .title-wrap { padding:15px 0 15px 4% !important }
+.widget ul {
+	direction:rtl;
+	margin:0 20px 0 0
+}
+#respond { overflow:hidden }
+.fa { display:inline }
+.post-meta .post-type i { display:inline-block }
+.post-meta span {
+	border-left:1px solid rgba(0, 0, 0, 0.1);
+	border-right:0;
+	padding-left:10px;
+	padding-right:0
+}
+.content-single li,
+.content-page li {
+	margin-left:0;
+	margin-right:30px
+}

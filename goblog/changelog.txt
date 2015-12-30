@@ -1,0 +1,182 @@
+-----------------------------------------------------
+GoBlog - Responsive WordPress Blog Theme - Changelog
+-----------------------------------------------------
+
+1.3.7
+----------------------------
+- Fixed: Bug with comment form after updating to WordPress 4.4
+
+1.3.6
+----------------------------
+- Current page link is now highlighted when post is split into pages
+- Added: Share button for Vkontakte
+
+1.3.5
+----------------------------
+- Fixed: Bug fixed with media uploader search function
+- Fixed: Post title was not showing in status post type
+- Minor CSS fixes
+
+1.3.4
+----------------------------
+- Compatible with WordPress 4.3
+- Excluded pages from theme’s search results
+- Replaced feedburner subscribe widget with mailchimp subscribe widget
+
+1.3.3
+----------------------------
+- Font awesome icons updated to v4.3
+- Fixed: Gallery lightbox was not working
+- Security improvements
+
+1.3.2
+----------------------------
+- Fixed: 125x125 showing same banners on 4 slots (bug occurred in last update 1.3.1)
+
+1.3.1
+----------------------------
+- Added: Two more layout styles
+- Minor CSS Changes
+- Fixed: Mobile menu issue with windows and blackberry mobile phones
+- Added: New strings to translation file
+- Fixed: Ad code textarea in ad widgets was showing code instead of ads
+- Shortcodes are now supported in Ad Code textarea of ad widgets
+
+1.3
+----------------------------
+- Minor CSS changes
+- Added: background colour to mobile menu button
+- Fixed: translation issue
+
+1.2.9
+----------------------------
+- Added: Missing string in language translation file
+- Modified mobile menu
+- Added: Attachment template
+
+1.2.8
+----------------------------
+- Code improvements (Validation in widgets)
+- Added: Styling for Disqus comments that matches with styling of theme
+- Added: Option to choose number of slides for slider
+
+1.2.7
+----------------------------
+- Fixed: Update option was not working
+- Added: “read more” and “related posts” missing strings to translation file
+- Improved sticky header which hides when scroll down and shows when scroll up
+- Added: More social sharing buttons and added option to change position of social sharing buttons
+- Added: Option to enable or disable post hover effect
+- Added: Option to add top and bottom margin for navigation menu
+- Added: Option to change text of share buttons
+- Code improvements
+
+1.2.6
+----------------------------
+- Some images were mistakenly replaced from Theme Options panel
+
+1.2.5
+----------------------------
+- Added: Year to post date and one more position to show date in posts
+- Modified: Ad widgets to include ad codes
+- Added: One more ad position above first post
+- Added: Year to post date and one more position to show date in posts
+- Modified: Ad widgets to include ad codes
+- Added: One more ad position above first post
+
+1.2.4
+----------------------------
+- Fixed: Private posts were not visible
+
+1.2.3
+----------------------------
+- Fixed: Issue related to audio post on single post
+- Code improvement. Separate single files for each post type
+- Added: Facebook open graph tags for better sharing on facebook
+- Removed CSS filters for slider
+
+1.2.2
+----------------------------
+- Added lightbox to WordPress default gallery inside articles
+- Fixed Souncloud height for audio post type
+- Accidently called a CSS file in last version that was not required
+
+1.2.1
+----------------------------
+- Added: Option to show header slider on homepage only or on all pages
+- Added: Better option to add icons to navigation menu
+- Fixed: Lightbox for gallery
+- Fixed: Post meta section
+- Moved: Post icon option under post meta option
+- Added: Option to change font properties for post content
+- Added: Option to hide title of page
+- Added: Pingbacks to comments section
+- Videos are now responsive inside articles
+- Font awesome icons updated to v4.2
+- Redux framework updated
+
+1.2
+----------------------------
+- Added retina support
+- Increased limit of images in Gallery to 40
+- Added option to change opacity of header slider images
+- Added CSS3 filters for header slides
+- Improved background option for header. Now images can be used as background of header instead of color only
+- Added option to change text color of header slider
+- Added font option for widget title
+- Fixed tag cloud link color
+- Minor CSS changes and fixes
+
+1.1.3
+----------------------------
+- Redux Framework Updated to v3.2.8
+
+1.1.2
+----------------------------
+- Redux Framework Updated
+- Removed read more button if full content is shown
+
+1.1.1
+----------------------------
+- Added option to enable/disable lightbox. Earlier it was enabled permanently
+- Fixed search form issue from v1.1
+- Improved background option of categories
+- Added styles for contact form 7
+- Added missing values to .po and .mo files
+- Improvements to RTL version
+- Several other improvements
+
+1.1
+----------------------------
+- Added option to show latest posts by category/categories on homepage, author and archive pages
+- Added post excerpt option to all post formats except quote post format
+- Added option to show or hide featured images, audio, video for all posts from options panel
+- Added option to hide excerpt on homepage for all post formats
+- Added option to hide featured images, gallery, audio, video or link box on single posts.
+- If no custom menu is created, menu will not be displayed
+- Fixed bug with child theme
+- Added more styling options. Now you can change background and border properties of post box and sidebar widgets
+- Fixed bug with full width layout for pages
+- Fixed bug with grid layouts not appearing properly in Safari browser
+- Added more icons to social widget
+- Shortcodes support in slider text
+- Added separate layout options for home, archives and single pages
+
+
+1.0.2
+----------------------------
+- Removed link from single post title
+- Fixed bug with menu icon on small screens
+- Fixed bug with footer code
+- Added option to show featured images on single pages
+- Changed meta link colour in widgets
+
+
+1.0.1
+----------------------------
+- Fixed bug with post meta box
+
+
+1.0
+----------------------------
+Initial Release
