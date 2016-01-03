@@ -50,6 +50,13 @@
 	bottom: 0;
 	left: 0;
 	color: #333;
+	max-height:100%;
+	overflow:auto;
+	top:110px;
+}
+#nm-quickview .nm-qv-summary {
+	max-height:800px;
+	overflow:auto;
 }
 @media screen and (max-width:480px) {
 	.prod-img {
